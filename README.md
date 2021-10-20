@@ -1,4 +1,6 @@
-# AWS SDK for PHP - Version 3
+# AWS SDK for PHP - Version 3 (DO NOT USE IN PRODUCTION)
+
+### It is not recommended to use this on production - This fork is used to test aws sdk on php 8 (Laravel 8.x)
 
 [![@awsforphp on Twitter](http://img.shields.io/badge/twitter-%40awsforphp-blue.svg?style=flat)](https://twitter.com/awsforphp)
 [![Total Downloads](https://img.shields.io/packagist/dt/aws/aws-sdk-php.svg?style=flat)](https://packagist.org/packages/aws/aws-sdk-php)
